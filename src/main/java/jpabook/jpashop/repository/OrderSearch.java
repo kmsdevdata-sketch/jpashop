@@ -7,7 +7,7 @@ import lombok.Setter;
 @Getter @Setter
 public class OrderSearch {
 
-    private String membername;
+    private String memberName;
     private OrderStatus orderStatus;
 
 }
